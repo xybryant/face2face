@@ -5,8 +5,6 @@
 
 
 
-## 预览
-![面对面翻译小程序](image/qr.jpg)
 
 
 ## 下载与使用
@@ -41,6 +39,4 @@
 
 对于插件有新需求，可描述具体使用场景发送邮件至`lethexie@tencent.com`
 
-## License
 
-[The MIT License](./LICENSE.txt)
